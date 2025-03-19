@@ -46,7 +46,7 @@
 ## Installation
 
 > - Clone the repo
->   `git clone https://github.com/Tripathikritika/Refresh-Menu.git`
+>   `git clone https://github.com/stefan-dev813/Refresh-Menu.git`
 > - Inside Front End Folder
 >   `cd Frontend`
 > - Install NPM packages
@@ -58,14 +58,14 @@
 > - Install NPM packages
 >   `npm install`
 > - Let the backend run
->   ` nodemon server.js`
+>   `nodemon server.js`
 
 ## Contributors
 
 Thanks for taking the time to contribute!
 
-  Woody
+  Stefan
 
 ## Credits
 
-`https://www.freshmenu.com/`
+`https://www.freshmenu.com/](https://staging.freshmenu.com`
