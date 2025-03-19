@@ -68,4 +68,4 @@ Thanks for taking the time to contribute!
 
 ## Credits
 
-`https://www.freshmenu.com/](https://staging.freshmenu.com`
+`[https://staging.freshmenu.com/]`
