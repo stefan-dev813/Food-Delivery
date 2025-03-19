@@ -35,6 +35,7 @@
 - [x] Google Oauth Login
 - [x] OTP Login
 - [x] Facebook Login
+- [x] Book Table 
 - [x] Map Integrated
 - [x] Integrated Payment Gateway
 
